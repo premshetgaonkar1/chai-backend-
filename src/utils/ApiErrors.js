@@ -31,3 +31,5 @@ class ApiErrors extends Error{
 
     }
 }
+
+export {ApiErrors}
